@@ -169,8 +169,8 @@ with col1:
         "PowerAMC",
         "Pix4D Mapper",
         "Erdas Imagine",
-        "Agisoft",
-        "Metashape",
+        "Agisoft Metashape",
+        "Suite Bureautique",
         "Microstation",
         "AutoCAD"
     ]
